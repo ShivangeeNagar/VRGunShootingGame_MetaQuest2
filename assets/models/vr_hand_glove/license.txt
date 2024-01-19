@@ -1,0 +1,11 @@
+Model Information:
+* title:	VR Hand Glove
+* source:	https://sketchfab.com/3d-models/vr-hand-glove-5d8ee3d4f1f247a4a1e6193b037ba66c
+* author:	Erick Marin (https://sketchfab.com/erickmarin221)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "VR Hand Glove" (https://sketchfab.com/3d-models/vr-hand-glove-5d8ee3d4f1f247a4a1e6193b037ba66c) by Erick Marin (https://sketchfab.com/erickmarin221) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
