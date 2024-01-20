@@ -1,6 +1,6 @@
 # VRGunShootingGame_MetaQuest2
 
-To Checkout my 3D VR compatible game : Click here[https://vrgunshootinggame.netlify.app/]
+To Checkout my 3D VR compatible game : Click [here](https://vrgunshootinggame.netlify.app/)
 
 This is how it will look :
 
@@ -14,7 +14,7 @@ This is how it will look :
 
 Steps to play the game and what to expect : 
 
-1. Go to your chrome and Click here[https://vrgunshootinggame.netlify.app/]
+1. Go to your chrome and Click [here](https://vrgunshootinggame.netlify.app/)
 2. Download a chrome extension called : Web XR which will work as a VR emulator for you guys, so don't worry if you do not have a VR headset right now. You can still play my VR game!
 3. After you add the extension to chrome, Click on the "Enter VR" button in the game.
 4. Yipeee! You are in sucessfully in my VR environment and you can now teleport and roam around my space and play the gun shooting game!
