@@ -2,6 +2,9 @@
 
 To Checkout my 3D VR compatible game : Click [here](https://vrgunshootinggame.netlify.app/)
 
+Tech - Stack : ThreeJS, Vanilla JavaScript, TweenJS, Python, VR concepts, OOPS concepts, Meta Quest 2
+Resources : Sketchfab.com
+
 This is how it will look :
 
 <img width="1440" alt="Screenshot 2024-01-19 at 7 03 02 PM" src="https://github.com/ShivangeeNagar/VRGunShootingGame_MetaQuest2/assets/90488975/bf97c39f-b589-4a8c-9e68-1487d0dfca94">
